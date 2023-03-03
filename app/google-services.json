@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828492076376",
+    "project_id": "funlia",
+    "storage_bucket": "funlia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828492076376:android:a577c00cfdd56b3249412d",
+        "android_client_info": {
+          "package_name": "com.example.funlia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828492076376-b9q8ckr09eoupqkgs2c7nusbtfjch6sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdSU5n6GNL1omOO6hXWEEno_O5hYPdEio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828492076376-b9q8ckr09eoupqkgs2c7nusbtfjch6sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
